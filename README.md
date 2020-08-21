@@ -6,10 +6,11 @@ This repository is a collection of several cheatsheets that I use to teach an un
 The suggested study order is:
 
 1. JDBC Cheatsheet
-2. JPA Cheatsheet
+2. JPA Cheatsheet sn nsnss ns cnms cns ckns cs c 
 3. JPA Inheritance
 4. JAXB Cheatsheet
 5. Date with Java-SQL-XML
+jbkjdbjkdbgkjdabgkjsabgkjsabgljkabglkjsabglsajgblsajgb
 
 The course also includes several examples of the technologies covered by the cheatsheets. Each demo has its own repository:
 
